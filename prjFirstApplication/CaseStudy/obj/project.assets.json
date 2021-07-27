@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\CaseStudy\\CaseStudy.csproj",
+      "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\CaseStudy\\CaseStudy.csproj",
       "projectName": "CaseStudy",
-      "projectPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\CaseStudy\\CaseStudy.csproj",
+      "projectPath": "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\CaseStudy\\CaseStudy.csproj",
       "packagesPath": "C:\\Users\\MonishaDevi\\.nuget\\packages\\",
-      "outputPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\CaseStudy\\obj\\",
+      "outputPath": "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\CaseStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

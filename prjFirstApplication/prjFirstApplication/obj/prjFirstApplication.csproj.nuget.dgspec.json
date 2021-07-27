@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj": {}
+    "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj": {}
   },
   "projects": {
-    "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj": {
+    "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj",
+        "projectUniqueName": "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj",
         "projectName": "prjFirstApplication",
-        "projectPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj",
+        "projectPath": "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\prjFirstApplication\\prjFirstApplication.csproj",
         "packagesPath": "C:\\Users\\MonishaDevi\\.nuget\\packages\\",
-        "outputPath": "C:\\OnlineTraining\\LTI\\July21\\CSharp\\Day1\\prjFirstApplication\\prjFirstApplication\\obj\\",
+        "outputPath": "C:\\OnlineTraining\\LTI\\July21\\GITDemo\\prjFirstApplication\\prjFirstApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
